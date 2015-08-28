@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;untitled&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/grpc/transport/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/fccstudent/.idea" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/oauth2/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/api/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/gorilla/securecookie/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/net/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/nu7hatch/gouuid/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/oauth2/google/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/callgraph/cha/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/rwcarlsen/goexif/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/cloud/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/golang/protobuf/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/ssa/interp/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/callgraph/rta/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/net/html/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/gcimporter/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/mytools" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/ssa/ssautil/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/mytools/.idea" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/gccgoimporter/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/cmd/stringer/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/stripe/stripe-go/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/cloud/storage/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/golang/protobuf/proto/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/api/google-api-go-generator/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/cmd/callgraph/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/cloud/datastore/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/oracle/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/cmd/fiximports/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/nsf/gocode/_gccgo" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/nsf/gocode/_goremote" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/types/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/nsf/gocode/_testing" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/cmd/vet/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/grpc/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/appengine/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/matryer/goblueprints/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/grpc/test/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/golang/protobuf/protoc-gen-go/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/nsf/gocode/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/refactor/eg/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/cmd/cover/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/thoj/go-ircevent/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/bradfitz/http2/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/grpc/interop/client/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/grpc/interop/server/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org/grpc/examples/route_guide/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/loader/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/dustin/go-humanize/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/julienschmidt/httprouter/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/bradfitz/http2/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/gorilla/context/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/pointer/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/golang/lint/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/golang/lint/.git" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org/x/tools/go/ssa/testdata" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/gorilla/sessions/.git" />
+    </excluded>
+  </library>
+</component>
